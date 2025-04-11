@@ -1,6 +1,4 @@
 # Database_SQLalchemy and FastAPI
- 
-# Start up Calendar
 
 ## Project Description
 This project is a **simple Python script** that automatically opens your calendar when you start your PC. The motivation behind this project is straightforward: **to ensure you never miss out on planning your day**. Starting your day with an overview of your schedule helps you stay organized and productive.
