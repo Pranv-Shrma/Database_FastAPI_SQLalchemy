@@ -14,7 +14,6 @@ The script is converted into an executable file using **Auto Py to Exe** and is 
 - [Tech Stack](#tech-stack)
 - [Contributing](#contributing)
 - [How to Use Your Project](#how-to-use-your-project)
-- [Credits](#credits)
 - [Contact Information](#contact-information)
 
 ---
@@ -92,11 +91,6 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 1. Clone the repository and follow the installation instructions.
 2. Customize the script if needed (e.g., add more functionality like database view as a different endpoint).
 
----
-
-## Credits
-- **Python Community**: For providing excellent resources and libraries.
-- 
 ---
 
 ## Contact Information
